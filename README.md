@@ -1,4 +1,9 @@
-# ironhack_datapipeline_w2
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="50"/> <img src="https://www.spyder-ide.org/static/images/spyder-logo.svg" alt="Ironhack Logo" width="50"/>
+<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Ironhack Logo" width="50"/>
+
+
+
+# Ironhack_datapipeline_w2
 week 2 project at Ironhack. investigating shark database
 
 ## Scrip workflow
